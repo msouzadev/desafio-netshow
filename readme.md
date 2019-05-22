@@ -23,3 +23,11 @@ DB_PASSWORD=senha
 
 MIX_APP_URL="url da aplicação"
 ```
+
+Após configurar ambiente, executar o comando abaixo para criar as tabelas no bando de dados
+
+`php artisan migrate`
+
+Feito isso , basta apenas iniciar o servidor com o comando:
+
+`php artisan serce`
