@@ -30,4 +30,4 @@ Após configurar ambiente, executar o comando abaixo para criar as tabelas no ba
 
 Feito isso , basta apenas iniciar o servidor com o comando:
 
-`php artisan serce`
+`php artisan serve`
